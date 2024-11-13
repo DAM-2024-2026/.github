@@ -4,26 +4,15 @@
 
 ## Apunts de **Programació**
 
-### [Enunciats de pseudocodi](https://github.com/DAM-2024-2026/enunciats-pseudocodi)
+#### [Enunciats de pseudocodi](https://github.com/DAM-2024-2026/enunciats-pseudocodi)
 
-#### [Enunciats Repetitius (Python)](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/documents/enunciats-repetitius.md#enunciats-repetitius-python)
+### [Enunciats Repetitius (Python)](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/documents/enunciats-repetitius.md#enunciats-repetitius-python)  <<<<< Estem aquí!
 
 #### [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/documents/enunciats-repetitius.md#definici%C3%B3-te%C3%B2rica-dan%C3%A0lisi-i-disseny)
 
 #### [Les funcions a Python](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/documents/funcions-python.md)
 
 #### [Funcions personalitzades](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/documents/funcions-personalitzades-python.md)
-
-
-### Correccions
-
-## Correccions als enunciats de pseudocodi
-
-[**`_49_nombresMesGransOMesPetitsQueZero.py`**](https://github.com/DAM-2024-2026/enunciats-pseudocodi/blob/main/fitxers/python/_49_nombresMesGransOMesPetitsQueZero.py)
-
-
-
-
 
 #### [Activitat per fer el divendres 8 de novembre de 2024](https://github.com/DAM-2024-2026/activitat-divendres-8-novembre-2024)
 
